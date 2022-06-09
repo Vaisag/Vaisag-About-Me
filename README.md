@@ -7,19 +7,20 @@
 <!---
 Vaisag/Vaisag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<a href="https://www.linkedin.com/in/vaisag-radhakrishnan/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
 --->
 
 ## Languages and Tools
 
+<a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> </a> 
+<a href="https://www.rstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/></a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white/"></a> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> </a> 
 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> </a> 
 
 ## Let's network 🫶🏽
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<a href="https://www.linkedin.com/in/vaisag-radhakrishnan/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vaisag-radhakrishnan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vaisag-radhakrishnan?trk=profile-badge">Vaisag Radhakrishnan</a></div>
-              
