@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaisag, a Master's in Analytics student at Georgia Institute of Technology
+- 👋 Hi, I’m @Vaisag, a Master's in Analytics student at Georgia Institute of Technology. Unfortunately most of my projects are in Georgia Tech's github :( But ask me about it!
 - 👀 I’m interested in Data Analysis, Data Clean up and Visualizations
 - 🌱 I’m currently learning javascript, Arena Simulation Software
 - 💞️ I’m looking to collaborate on any sports analytics projects
